@@ -1,0 +1,5 @@
+stack_capacity,correct,total,accuracy,protocol
+64,14,24,0.5833333333,targeted_24_expressions
+65,23,24,0.9583333333,targeted_24_expressions
+66,24,24,1.0000000000,targeted_24_expressions
+80,24,24,1.0000000000,targeted_24_expressions
