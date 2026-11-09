@@ -20,3 +20,9 @@ Three selected expressions were studied with cell interventions at steps 110–1
 
 ## Status
 The original PyTorch source, checkpoint and complete JSON logs must still be uploaded to this GitHub repository. Until then, the downloadable research archive is the complete experiment bundle.
+
+## Second generated sample (10 Nov 2026)
+
+Using the same checkpoint and generator protocol but a new seed `20261110`, another 24 targeted expressions yielded K=64: 22/24, K=65: 23/24, K=66: 24/24, K=80: 24/24. This **post-hoc repeat** shows the 64→66 effect size depends strongly on the sample (41.7 vs 8.3 percentage points). The CSV is in `capacity_replication_20261110.csv`.
+
+A reviewed manuscript and full code/checkpoint/JSON bundle were prepared separately for journal submission; the binary items are not yet hosted in this repository.
